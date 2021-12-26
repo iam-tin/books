@@ -10,6 +10,12 @@
 ---
 
 
+#Java语言
+- 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）-周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1U33-nqZwwFyUblkW6MnODA) 密码:1a0o
+- Effective Java 中文第二版.pdf [百度云盘链接](https://pan.baidu.com/s/1xNPqlPNUqezQQ7ijgc3aDw) 密码:21d4
+- Java核心技术卷1基础知识原书第10版.pdf [百度云盘链接](https://pan.baidu.com/s/1g16rXXexwWcMyYkiHJhegA) 密码:600u
+
+
 # 计算机系统
 - 深入理解计算机系统（中文清晰）.pdf [百度云盘链接](https://pan.baidu.com/s/1HTrHtNeJeWkTatxCNQD23Q) 密码:39s0
 - 《汇编语言(第3版) 》王爽著.pdf [百度云盘链接](https://pan.baidu.com/s/12iXYMj2AMeawmXb60zNOXQ) 密码:4t94
