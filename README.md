@@ -2,7 +2,7 @@
 
 书单简介:
 
-> 本书库包含但不限于以下： Java编程语言、计算机操作系统、网络编程、面试、设计模式、Spring源码、中间件 、算法与数据结构、数据库、Redis、程序员晋升、系统架构等学习书籍。
+> 本书库包含但不限于以下： Java编程语言、计算机操作系统、网络编程、面试、设计模式、MySQL、Spring源码、中间件 、算法与数据结构、数据库、Redis、程序员晋升、系统架构等学习书籍。
 
 本人也持续学习中，仓库会持续更新，汇集更多经典书籍，建议Star本仓库，方便下次找书。
 
@@ -35,6 +35,23 @@
 - 剑指offer第二版(PDF+源码).zip [百度云盘链接](https://pan.baidu.com/s/1z5AwS0xgqFKOSMSzVmKRaw) 密码:c8dl
 - 程序员面试宝典 欧立奇 第五版--最新高清.pdf [百度云盘链接](https://pan.baidu.com/s/1asQHlH0V_cj4VFA3adwpoQ) 密码:n9oh
 - 程序员代码面试指南 IT名企算法与数据结构题目最优解.pdf [百度云盘链接](https://pan.baidu.com/s/1uGMkKDXndKQrTbUb1-lGaw) 密码:s5m9
+
+
+# MySQL
+- 高性能mysql第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1vr8F7vUkaUVkuq_a9ZSAjg) 密码:2h35
+- MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf [百度云盘链接](https://pan.baidu.com/s/1pscvThudV21s51crL-oKOw) 密码:leuc
+
+
+# 网络编程
+- Java网络编程(第4版).pdf [百度云盘链接](https://pan.baidu.com/s/1Pt2asKNVDrqfC_qu4MB9ew) 密码:hs9r
+- HTTP权威指南（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1Bx2tp0bjXIL0jfu2XX5fdg) 密码:sdhg
+- 深入理解Nginx模块开发与架构解析第2版.pdf [百度云盘链接](https://pan.baidu.com/s/10nWZq_69wIiwphVYoD4iYg) 密码:n18d
+- Netty权威指南 第二版.pdf [百度云盘链接](https://pan.baidu.com/s/1DEYUoGnTkWZaWA00xUSWSg) 密码：7avg
+
+
+# Redis
+- Redis开发与运维(付磊).pdf [百度云盘链接](https://pan.baidu.com/s/1iZU98J1BSbM8810uVSH7DQ) 密码: lah2
+- Redis设计与实现.pdf [百度云盘链接](https://pan.baidu.com/s/1DF_Mni6JJHHPMIePRBXEsg) 密码：5muj
 
 
 ---
