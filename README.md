@@ -53,6 +53,10 @@
 - Redis开发与运维(付磊).pdf [百度云盘链接](https://pan.baidu.com/s/1iZU98J1BSbM8810uVSH7DQ) 密码: lah2
 - Redis设计与实现.pdf [百度云盘链接](https://pan.baidu.com/s/1DF_Mni6JJHHPMIePRBXEsg) 密码：5muj
 
+# 程序员自我修炼
+- 程序员修炼之道-通向务实的最高境界(第2版).pdf [百度云盘链接](https://pan.baidu.com/s/1QJ3LLs-W8oBlIpH7skXJ9Q) 密码:lctc 
+- 程序员修炼之道：从小工到专家.pdf [百度云盘链接](https://pan.baidu.com/s/1yjzpRCYXUAdl_RhdIdBARA) 密码: 3qj9
+
 
 ---
 ---
