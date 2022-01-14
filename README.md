@@ -59,6 +59,14 @@
 - 程序员修炼之道-通向务实的最高境界(第2版).pdf [百度云盘链接](https://pan.baidu.com/s/1QJ3LLs-W8oBlIpH7skXJ9Q) 密码:lctc 
 - 程序员修炼之道：从小工到专家.pdf [百度云盘链接](https://pan.baidu.com/s/1yjzpRCYXUAdl_RhdIdBARA) 密码: 3qj9
 
+# 架构与设计
+- 大型分布式网站架构设计与实践.带目录书签.完整版.pdf [百度云盘链接](https://pan.baidu.com/s/14A95ijWo3TN01yqK9M8jfQ) 密码: faa1
+- 大型网站技术架构_核心原理与案例分析_李智慧.pdf [百度云盘链接](https://pan.baidu.com/s/1eeCUMPVYEXv4X5suySP-Xg) 密码: c56g
+- 设计模式.pdf [百度云盘链接](https://pan.baidu.com/s/1N_cHPE897Ozwn0hFefOVKw) 密码: 09tv
+- 数据密集型应⽤设计--中文版.pdf [百度云盘链接](https://pan.baidu.com/s/1NC5UMR3wp8KYdN7ZaYYpkw) 密码: 5m7g
+- 软件架构方面.pdf [百度云盘链接](https://pan.baidu.com/s/1JzbISPxf2nFmrpOpgHOn6w) 密码: 8bhu
+- Head First 设计模式(中文版).pdf [百度云盘链接](https://pan.baidu.com/s/1qMHSI7KtItqpvh6rCHF4Gg) 密码: 8oi2
+- 设计模式之禅（第2版）.pdf [百度云盘链接](https://pan.baidu.com/s/13h7BTZrEpb5vHm0ZhiYvnA) 密码: 1ubi
 
 ---
 ---
