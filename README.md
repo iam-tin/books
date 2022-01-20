@@ -17,6 +17,7 @@
 - Java核心技术卷1基础知识原书第10版.pdf [百度云盘链接](https://pan.baidu.com/s/1g16rXXexwWcMyYkiHJhegA) 密码:600u
 - Java并发编程实战（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1TeepUcsKIgya2gaifuEbtQ) 密码: 04i2
 - Head First Java 中文高清版.pdf [百度云盘链接](https://pan.baidu.com/s/1omaOktAjaorIrr4NMrZkgw) 密码：w206
+- Java性能权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/1p5oJw77qIo11sDDCCi-YCQ) 密码: fnw7
 
 
 # 计算机系统
