@@ -18,6 +18,7 @@
 - Java并发编程实战（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1TeepUcsKIgya2gaifuEbtQ) 密码: 04i2
 - Head First Java 中文高清版.pdf [百度云盘链接](https://pan.baidu.com/s/1omaOktAjaorIrr4NMrZkgw) 密码：w206
 - Java性能权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/1p5oJw77qIo11sDDCCi-YCQ) 密码: fnw7
+- 重构_改善既有代码的设计.pdf [百度云盘链接](https://pan.baidu.com/s/1Wg1AGpYJSZhn17eDY-bajg) 密码: ksct
 
 
 # 计算机系统
@@ -70,6 +71,7 @@
 - 软件架构方面.pdf [百度云盘链接](https://pan.baidu.com/s/1JzbISPxf2nFmrpOpgHOn6w) 密码: 8bhu
 - Head First 设计模式(中文版).pdf [百度云盘链接](https://pan.baidu.com/s/1qMHSI7KtItqpvh6rCHF4Gg) 密码: 8oi2
 - 设计模式之禅（第2版）.pdf [百度云盘链接](https://pan.baidu.com/s/13h7BTZrEpb5vHm0ZhiYvnA) 密码: 1ubi
+- 大话设计模式.pdf [百度云盘链接](https://pan.baidu.com/s/14U9j9WyEeklLQnQvh5-hhQ) 密码: isj2
 
 # 程序员养生
 - 程序员健康指南.pdf [百度云盘链接](https://pan.baidu.com/s/1R92r9o_Nyt9SC2E9v4Smfw) 密码: 36pj
