@@ -14,7 +14,7 @@
 # Java语言
 - 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）-周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1U33-nqZwwFyUblkW6MnODA) 密码:1a0o
 - Effective Java 中文第二版.pdf [百度云盘链接](https://pan.baidu.com/s/1xNPqlPNUqezQQ7ijgc3aDw) 密码:21d4
-- Java核心技术卷1基础知识原书第10版.pdf [百度云盘链接](https://pan.baidu.com/s/1g16rXXexwWcMyYkiHJhegA) 密码:600u
+- Java核心技术卷1基础知识原书第10版.pdf [百度云盘链接](链接: https://pan.baidu.com/s/1j6MSkFsvTKSl4CeKwVT0hA) 密码:0p8j
 - Java并发编程实战（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1TeepUcsKIgya2gaifuEbtQ) 密码: 04i2
 - Head First Java 中文高清版.pdf [百度云盘链接](https://pan.baidu.com/s/1omaOktAjaorIrr4NMrZkgw) 密码：w206
 - Java性能权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/1p5oJw77qIo11sDDCCi-YCQ) 密码: fnw7
@@ -74,7 +74,7 @@
 - 大话设计模式.pdf [百度云盘链接](https://pan.baidu.com/s/14U9j9WyEeklLQnQvh5-hhQ) 密码: isj2
 
 # 程序员养生
-- 程序员健康指南.pdf [百度云盘链接](https://pan.baidu.com/s/1R92r9o_Nyt9SC2E9v4Smfw) 密码: 36pj
+- 程序员健康指南.pdf [百度云盘链接](链接: https://pan.baidu.com/s/1Bdm630hi2n24Rx7SZHVOSA) 密码: ep7l
 
 ---
 ---
