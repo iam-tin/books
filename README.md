@@ -20,6 +20,7 @@
 - Java性能权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/15lcLjNnXeUIbtzD_InEpBw) 密码: npvl
 - 重构_改善既有代码的设计.pdf [百度云盘链接](https://pan.baidu.com/s/1JeL-3--nWziKTiQjk2EVeg) 密码: vq8o
 - Java编程思想第四版完整中文高清版(免费).pdf [百度云盘链接](https://pan.baidu.com/s/1eTCuf_RzfqlLnnhl7-u2Fg) 密码: lhtl
+- On Java 8中文版.pdf [百度云盘链接](https://pan.baidu.com/s/1hLURjIlKz-XoA8Wq8wYQYQ) 密码：w7bf
 - 码出高效：Java开发手册-阿里巴巴.pdf [百度云盘链接](https://pan.baidu.com/s/1smuqKSOVsF5VstPbjGmXZA) 密码: gpem
 - 代码整洁之道.pdf [百度云盘链接](https://pan.baidu.com/s/15QHUlBpj8UA6bG3DhXtC4w) 密码: bhk7
 
