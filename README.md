@@ -11,14 +11,17 @@
 ---
 
 
-# Java语言
+# Java语言与性能
 - 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）-周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1U33-nqZwwFyUblkW6MnODA) 密码:1a0o
-- Effective Java 中文第二版.pdf [百度云盘链接](https://pan.baidu.com/s/1xNPqlPNUqezQQ7ijgc3aDw) 密码:21d4
+- Effective Java 中文第二版.pdf [百度云盘链接](https://pan.baidu.com/s/10AbCQijrNDvPNfIeRhxEKA) 密码:vs4h
 - Java核心技术卷1基础知识原书第10版.pdf [百度云盘链接](https://pan.baidu.com/s/1j6MSkFsvTKSl4CeKwVT0hA) 密码:0p8j
 - Java并发编程实战（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1TeepUcsKIgya2gaifuEbtQ) 密码: 04i2
 - Head First Java 中文高清版.pdf [百度云盘链接](https://pan.baidu.com/s/1omaOktAjaorIrr4NMrZkgw) 密码：w206
-- Java性能权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/1p5oJw77qIo11sDDCCi-YCQ) 密码: fnw7
-- 重构_改善既有代码的设计.pdf [百度云盘链接](https://pan.baidu.com/s/1Wg1AGpYJSZhn17eDY-bajg) 密码: ksct
+- Java性能权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/15lcLjNnXeUIbtzD_InEpBw) 密码: npvl
+- 重构_改善既有代码的设计.pdf [百度云盘链接](https://pan.baidu.com/s/1JeL-3--nWziKTiQjk2EVeg) 密码: vq8o
+- Java编程思想第四版完整中文高清版(免费).pdf [百度云盘链接](https://pan.baidu.com/s/1eTCuf_RzfqlLnnhl7-u2Fg) 密码: lhtl
+- 码出高效：Java开发手册-阿里巴巴.pdf [百度云盘链接](https://pan.baidu.com/s/1smuqKSOVsF5VstPbjGmXZA) 密码: gpem
+- 代码整洁之道.pdf [百度云盘链接](https://pan.baidu.com/s/15QHUlBpj8UA6bG3DhXtC4w) 密码: bhk7
 
 
 # 计算机系统
@@ -44,8 +47,8 @@
 
 
 # MySQL
-- 高性能mysql第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1vr8F7vUkaUVkuq_a9ZSAjg) 密码:2h35
-- MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf [百度云盘链接](https://pan.baidu.com/s/1pscvThudV21s51crL-oKOw) 密码:leuc
+- 高性能mysql第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1u3onEnrKFqEs8hXxVQ6g8w) 密码:gpkv
+- MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf [百度云盘链接](https://pan.baidu.com/s/11LYWpd8EG6ZpADLDfeF2Qg) 密码:uk13
 
 
 # 网络编程
@@ -75,6 +78,9 @@
 
 # 程序员养生
 - 程序员健康指南.pdf [百度云盘链接](https://pan.baidu.com/s/1Bdm630hi2n24Rx7SZHVOSA) 密码: ep7l
+
+# 算法与数据结构
+- 算法 第四版.pdf [百度云盘链接](https://pan.baidu.com/s/11IZkNlyNxkCyhKyksN_mow) 密码: ucoj
 
 ---
 ---
