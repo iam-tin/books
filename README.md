@@ -28,7 +28,7 @@
 
 
 # 计算机系统
-- 深入理解计算机系统（中文清晰）.pdf [百度云盘链接](https://pan.baidu.com/s/1ZxrbwCwFoftu19DorvIEZw) 密码:eqqr
+- 深入理解计算机系统（中文清晰）.pdf [百度云盘链接](https://pan.baidu.com/s/1ZTwhL4mNiaJp34AL895ehg) 密码:r4o6
 - 《汇编语言(第3版) 》王爽著.pdf [百度云盘链接](https://pan.baidu.com/s/12iXYMj2AMeawmXb60zNOXQ) 密码:4t94
 - 鸟哥Linux私房菜第四版.pdf [百度云盘链接](https://pan.baidu.com/s/1OaXc8RCmnYhsTzgy635fjA) 密码:thl4
 
