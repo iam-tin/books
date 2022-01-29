@@ -82,7 +82,10 @@
 - 程序员健康指南.pdf [百度云盘链接](https://pan.baidu.com/s/1Bdm630hi2n24Rx7SZHVOSA) 密码: ep7l
 
 # 算法与数据结构
-- 算法 第四版.pdf [百度云盘链接](https://pan.baidu.com/s/11IZkNlyNxkCyhKyksN_mow) 密码: ucoj
+- 算法 第四版.pdf [百度云盘链接](https://pan.baidu.com/s/1eoz_bJyUy0ElLHAlcLqCiQ) 密码: vfu7
+- 数据结构与算法分析 C语言描述.pdf [百度云盘链接](https://pan.baidu.com/s/1WugTN_Smt0yGmH4fvi21EA) 密码: qm8r
+- 王争·数据结构与算法之美.pdf [百度云盘链接](https://pan.baidu.com/s/19qlbL5JU_IAYwYTkg-teYg) 密码: 5q4e
+- 数据结构与算法分析 Java 描述.pdf [百度云盘链接](https://pan.baidu.com/s/1vWX8EvM4gwywxKFnZNpUXA) 密码: 6akg
 
 ---
 ---
