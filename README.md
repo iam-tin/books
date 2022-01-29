@@ -50,7 +50,7 @@
 
 
 # MySQL
-- 高性能mysql第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1u3onEnrKFqEs8hXxVQ6g8w) 密码:gpkv
+- 高性能mysql第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1FAGsXHxGhEzpYx3vike6WQ) 密码:2v3r
 - MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf [百度云盘链接](https://pan.baidu.com/s/11LYWpd8EG6ZpADLDfeF2Qg) 密码:uk13
 
 
