@@ -12,7 +12,8 @@
 
 
 # Java语言与性能
-- 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）-周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1bKG7VUpEm9VvfdtenTuKhA) 密码:olrm
+- 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）-周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1bKG7VUpEm9VvfdtenTuKhA) 密码: olrm
+- 深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1sTnh6U0UYRcLh01klngJHA) 密码: ndvn
 - Effective Java 中文第二版.pdf [百度云盘链接](https://pan.baidu.com/s/10AbCQijrNDvPNfIeRhxEKA) 密码:vs4h
 - Java核心技术卷I 基础知识 原书第10版.pdf [百度云盘链接](https://pan.baidu.com/s/17DNM1NMPGdPiCkxELaau_Q) 密码:bmpu
 - Java核心技术 卷II 高级特性（原书第11版）.pdf [百度云盘链接](https://pan.baidu.com/s/1JariIpiWaWJvfQaHC_ZQKw) 密码:dcuk
