@@ -54,7 +54,7 @@
 - MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf [百度云盘链接](https://pan.baidu.com/s/11LYWpd8EG6ZpADLDfeF2Qg) 密码:uk13
 
 
-# 网络编程
+# 其他框架与中间件
 - Java网络编程(第4版).pdf [百度云盘链接](https://pan.baidu.com/s/1Pt2asKNVDrqfC_qu4MB9ew) 密码:hs9r
 - HTTP权威指南（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1Bx2tp0bjXIL0jfu2XX5fdg) 密码:sdhg
 - 深入理解Nginx模块开发与架构解析第2版.pdf [百度云盘链接](https://pan.baidu.com/s/10nWZq_69wIiwphVYoD4iYg) 密码:n18d
