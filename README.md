@@ -58,7 +58,7 @@
 - Java网络编程(第4版).pdf [百度云盘链接](https://pan.baidu.com/s/1Pt2asKNVDrqfC_qu4MB9ew) 密码:hs9r
 - HTTP权威指南（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1Bx2tp0bjXIL0jfu2XX5fdg) 密码:sdhg
 - 深入理解Nginx模块开发与架构解析第2版.pdf [百度云盘链接](https://pan.baidu.com/s/10nWZq_69wIiwphVYoD4iYg) 密码:n18d
-- Netty权威指南 第二版.pdf [百度云盘链接](https://pan.baidu.com/s/1DEYUoGnTkWZaWA00xUSWSg) 密码：7avg
+- Netty权威指南 第二版.pdf [百度云盘链接](https://pan.baidu.com/s/1Da9PhwPz62xqLYJLdgpeYw) 密码：owvl
 
 
 # Redis
