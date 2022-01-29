@@ -17,7 +17,7 @@
 - Effective Java 中文第二版.pdf [百度云盘链接](https://pan.baidu.com/s/10AbCQijrNDvPNfIeRhxEKA) 密码:vs4h
 - Java核心技术卷I 基础知识 原书第10版.pdf [百度云盘链接](https://pan.baidu.com/s/17DNM1NMPGdPiCkxELaau_Q) 密码:bmpu
 - Java核心技术 卷II 高级特性（原书第11版）.pdf [百度云盘链接](https://pan.baidu.com/s/1JariIpiWaWJvfQaHC_ZQKw) 密码:dcuk
-- Java并发编程实战（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1TeepUcsKIgya2gaifuEbtQ) 密码: 04i2
+- Java并发编程实战（中文版）.pdf [百度云盘链接](https://pan.baidu.com/s/1UY1BJGej0lo3_y1kPN_9og) 密码: a63j
 - Head First Java 中文高清版.pdf [百度云盘链接](https://pan.baidu.com/s/1omaOktAjaorIrr4NMrZkgw) 密码：w206
 - Java性能权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/15lcLjNnXeUIbtzD_InEpBw) 密码: npvl
 - 重构_改善既有代码的设计.pdf [百度云盘链接](https://pan.baidu.com/s/1JeL-3--nWziKTiQjk2EVeg) 密码: vq8o
