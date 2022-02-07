@@ -47,6 +47,10 @@
 - 程序员面试宝典 欧立奇 第五版--最新高清.pdf [百度云盘链接](https://pan.baidu.com/s/1asQHlH0V_cj4VFA3adwpoQ) 密码:n9oh
 - 程序员代码面试指南 IT名企算法与数据结构题目最优解.pdf [百度云盘链接](https://pan.baidu.com/s/1uGMkKDXndKQrTbUb1-lGaw) 密码:s5m9
 - 2021 Java 面试真题-整理.pdf [百度云盘链接](https://pan.baidu.com/s/1Rywt6IYcrSCKsHG4beI11A) 密码: dhqj
+- 程序员面试宝典（第三版）.pdf [百度云盘链接](https://pan.baidu.com/s/1JmVoOd_QRuMNXoBw3WmtVQ) 密码: paw8
+- 面试必问之jvm与性能优化.pdf [百度云盘链接](https://pan.baidu.com/s/1IUt3_tdIqMh77uGmvXZTMg) 密码: oeeg
+- Dubbo面试28题答案详解：核心功能+服务治理+架构设计等.pdf [百度云盘链接](https://pan.baidu.com/s/1PseWfSJEVoCImjIhRXBIXg) 密码: 3gt8
+- Spring面试题：基础到高级.pdf [百度云盘链接](https://pan.baidu.com/s/1FYk9TY7BXpv62Y4i2XZTkg) 密码: d58m
 
 
 # MySQL
