@@ -52,6 +52,7 @@
 - 面试必问之jvm与性能优化.pdf [百度云盘链接](https://pan.baidu.com/s/1IUt3_tdIqMh77uGmvXZTMg) 密码: oeeg
 - Dubbo面试28题答案详解：核心功能+服务治理+架构设计等.pdf [百度云盘链接](https://pan.baidu.com/s/1PseWfSJEVoCImjIhRXBIXg) 密码: 3gt8
 - Spring面试题：基础到高级.pdf [百度云盘链接](https://pan.baidu.com/s/1FYk9TY7BXpv62Y4i2XZTkg) 密码: d58m
+- 2020年字节跳动Java 工程师面试题.pdf [百度云盘链接](https://pan.baidu.com/s/13tGvFrkjpW0px3WayCUuug) 密码: tre5
 
 
 # MySQL
