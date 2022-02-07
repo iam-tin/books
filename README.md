@@ -40,6 +40,7 @@
 # LeetCode
 - LeeCode刷题手册-GO [百度云盘链接](https://pan.baidu.com/s/1aZVAQwsxiHEawnkxB0IH2g) 密码:ddgi
 - 谷歌大神LeetCode刷题手册-C++ [百度云盘链接](https://pan.baidu.com/s/15vTMMngdKZTrLLwxfZeHNw) 密码:fs9u
+- LeetCode-张晓翀&陈心宇.pdf [百度云盘链接](https://pan.baidu.com/s/1DIJAgFDBi8ed4GBnYOqKxg) 密码:waje
 
 
 # 面试相关
