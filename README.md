@@ -93,6 +93,10 @@
 - 数据结构与算法分析 C语言描述.pdf [百度云盘链接](https://pan.baidu.com/s/1WugTN_Smt0yGmH4fvi21EA) 密码: qm8r
 - 王争·数据结构与算法之美.pdf [百度云盘链接](https://pan.baidu.com/s/19qlbL5JU_IAYwYTkg-teYg) 密码: 5q4e
 - 数据结构与算法分析 Java 描述.pdf [百度云盘链接](https://pan.baidu.com/s/1vWX8EvM4gwywxKFnZNpUXA) 密码: 6akg
+- 编程珠玑（第二版）.pdf [百度云盘链接](https://pan.baidu.com/s/1_wJmvnvEJ3cX0lBqj71Ixg) 密码: r7ch
+- 编程珠玑（第2版 修订版）.pdf [百度云盘链接](https://pan.baidu.com/s/1arEUvbUa_l9VmKzaUPSkKA) 密码: ofu8
+- 啊哈算法.pdf [百度云盘链接](https://pan.baidu.com/s/1RFkPp3uWFddk5jkobhvFUw) 密码: rs57
+- 算法导论中文第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1NE642LisMe7f8SieC4vnUQ) 密码: r5n3
 
 ---
 ---
