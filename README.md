@@ -73,7 +73,7 @@
 
 # 程序员自我修炼
 - 程序员修炼之道-通向务实的最高境界(第2版).pdf [百度云盘链接](https://pan.baidu.com/s/1QJ3LLs-W8oBlIpH7skXJ9Q) 密码:lctc 
-- 程序员修炼之道：从小工到专家.pdf [百度云盘链接](https://pan.baidu.com/s/1yjzpRCYXUAdl_RhdIdBARA) 密码: 3qj9
+- 程序员修炼之道：从小工到专家.pdf [百度云盘链接](https://pan.baidu.com/s/1JPGgTX6DiNyhkzlZgXlo7w) 密码: u5pi
 
 # 架构与设计
 - 大型分布式网站架构设计与实践.带目录书签.完整版.pdf [百度云盘链接](https://pan.baidu.com/s/14A95ijWo3TN01yqK9M8jfQ) 密码: faa1
