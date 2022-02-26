@@ -82,7 +82,7 @@
 - 数据密集型应⽤设计--中文版.pdf [百度云盘链接](https://pan.baidu.com/s/1NC5UMR3wp8KYdN7ZaYYpkw) 密码: 5m7g
 - 软件架构方面.pdf [百度云盘链接](https://pan.baidu.com/s/1JzbISPxf2nFmrpOpgHOn6w) 密码: 8bhu
 - Head First 设计模式(中文版).pdf [百度云盘链接](https://pan.baidu.com/s/1qMHSI7KtItqpvh6rCHF4Gg) 密码: 8oi2
-- 设计模式之禅（第2版）.pdf [百度云盘链接](https://pan.baidu.com/s/13h7BTZrEpb5vHm0ZhiYvnA) 密码: 1ubi
+- 设计模式之禅（第2版）.pdf [百度云盘链接](https://pan.baidu.com/s/1DUDV04pkWtW9eFo1X1DynQ) 密码: 895l
 - 大话设计模式.pdf [百度云盘链接](https://pan.baidu.com/s/14U9j9WyEeklLQnQvh5-hhQ) 密码: isj2
 
 # 程序员养生
