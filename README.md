@@ -25,6 +25,8 @@
 - On Java 8中文版.pdf [百度云盘链接](https://pan.baidu.com/s/1MJmt40GhJGB0Dba5flxZ2w) 密码：7n6r
 - 码出高效：Java开发手册-阿里巴巴.pdf [百度云盘链接](https://pan.baidu.com/s/1smuqKSOVsF5VstPbjGmXZA) 密码: gpem
 - 代码整洁之道.pdf [百度云盘链接](https://pan.baidu.com/s/15QHUlBpj8UA6bG3DhXtC4w) 密码: bhk7
+- GitHub 上标星 115k+ 的 Java 教程.pdf [百度云盘链接](https://pan.baidu.com/s/1BDhEtB2S2OpSJV3sE1pCtw) 密码: dpv9
+- Java 基础核心总结.pdf [百度云盘链接](https://pan.baidu.com/s/1WwhqYcmLE2qPu4B2pUqDUQ) 密码: l9kp
 
 
 # 计算机系统
@@ -97,6 +99,11 @@
 - 编程珠玑（第2版 修订版）.pdf [百度云盘链接](https://pan.baidu.com/s/1arEUvbUa_l9VmKzaUPSkKA) 密码: ofu8
 - 啊哈算法.pdf [百度云盘链接](https://pan.baidu.com/s/1RFkPp3uWFddk5jkobhvFUw) 密码: rs57
 - 算法导论中文第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1NE642LisMe7f8SieC4vnUQ) 密码: r5n3
+
+# 其他工具
+- 《Maven实战》.doc [百度云盘链接](https://pan.baidu.com/s/1xof8HYwLcJhy-eKxhy2z8w) 密码: va69
+- Git权威指南-目录完美-完整版.pdf [百度云盘链接](https://pan.baidu.com/s/101n039Ex7kID4xxi4pDHyQ) 密码: 6wvs
+- GitHub入门与实践完整版.pdf [百度云盘链接](https://pan.baidu.com/s/1BYJ2n6DKhD2yh6J--TAR6Q) 密码: kolj
 
 ---
 ---
