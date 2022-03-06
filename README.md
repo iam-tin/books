@@ -10,7 +10,6 @@
 ---
 ---
 
-
 # Java语言与性能
 - 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）-周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1bKG7VUpEm9VvfdtenTuKhA) 密码: olrm
 - 深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）周志明.pdf [百度云盘链接](https://pan.baidu.com/s/1sTnh6U0UYRcLh01klngJHA) 密码: ndvn
@@ -27,6 +26,7 @@
 - 代码整洁之道.pdf [百度云盘链接](https://pan.baidu.com/s/15QHUlBpj8UA6bG3DhXtC4w) 密码: bhk7
 - GitHub 上标星 115k+ 的 Java 教程.pdf [百度云盘链接](https://pan.baidu.com/s/1BDhEtB2S2OpSJV3sE1pCtw) 密码: dpv9
 - Java 基础核心总结.pdf [百度云盘链接](https://pan.baidu.com/s/1WwhqYcmLE2qPu4B2pUqDUQ) 密码: l9kp
+- JAVA核心知识点整理.pdf [百度云盘链接](https://pan.baidu.com/s/1DP2mDGDB74OOBiToAZtapg) 密码:ce53
 
 
 # 计算机系统
