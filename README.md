@@ -100,6 +100,9 @@
 - 啊哈算法.pdf [百度云盘链接](https://pan.baidu.com/s/1RFkPp3uWFddk5jkobhvFUw) 密码: rs57
 - 算法导论中文第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1NE642LisMe7f8SieC4vnUQ) 密码: r5n3
 
+# 分布式&微服务
+- Nacos 架构与原理.pdf [百度云盘链接](https://pan.baidu.com/s/1Mp63AJOLqySizQGgddfbkA) 密码: 5qk9
+
 # 其他工具
 - 《Maven实战》.doc [百度云盘链接](https://pan.baidu.com/s/1xof8HYwLcJhy-eKxhy2z8w) 密码: va69
 - Git权威指南-目录完美-完整版.pdf [百度云盘链接](https://pan.baidu.com/s/101n039Ex7kID4xxi4pDHyQ) 密码: 6wvs
