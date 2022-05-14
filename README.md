@@ -35,6 +35,8 @@
 - 鸟哥Linux私房菜第四版.pdf [百度云盘链接](https://pan.baidu.com/s/1OaXc8RCmnYhsTzgy635fjA) 密码:thl4
 - 计算机是怎样跑起来的.pdf [百度云盘链接](https://pan.baidu.com/s/1_9L1iB_Xs69Dk9zYt5Xxcg) 密码:0hj1
 - 程序是怎样跑起来的.pdf [百度云盘链接](https://pan.baidu.com/s/15ld16gFS9dwla6K3iLQ5HA) 密码:p6ue
+- 计算机组成与设计：硬件、软件接口（第4版）.pdf [百度云盘链接](https://pan.baidu.com/s/1ybhL-30EnZOjqUluudEMZg) 密码:o6k5
+- 编码：隐匿在计算机软硬件背后的语言.pdf [百度云盘链接](https://pan.baidu.com/s/1YIH5EQofnAjhhecn6ZSK9A) 密码:mdhw
 
 
 # Spring源码
