@@ -33,6 +33,8 @@
 - 深入理解计算机系统（中文清晰）.pdf [百度云盘链接](https://pan.baidu.com/s/1ZTwhL4mNiaJp34AL895ehg) 密码:r4o6
 - 《汇编语言(第3版) 》王爽著.pdf [百度云盘链接](https://pan.baidu.com/s/12iXYMj2AMeawmXb60zNOXQ) 密码:4t94
 - 鸟哥Linux私房菜第四版.pdf [百度云盘链接](https://pan.baidu.com/s/1OaXc8RCmnYhsTzgy635fjA) 密码:thl4
+- 计算机是怎样跑起来的.pdf [百度云盘链接](https://pan.baidu.com/s/1_9L1iB_Xs69Dk9zYt5Xxcg) 密码:0hj1
+- 程序是怎样跑起来的.pdf [百度云盘链接](https://pan.baidu.com/s/15ld16gFS9dwla6K3iLQ5HA) 密码:p6ue
 
 
 # Spring源码
