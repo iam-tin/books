@@ -65,6 +65,14 @@
 # MySQL
 - 高性能mysql第三版.pdf [百度云盘链接](https://pan.baidu.com/s/1FAGsXHxGhEzpYx3vike6WQ) 密码:2v3r
 - MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf [百度云盘链接](https://pan.baidu.com/s/11LYWpd8EG6ZpADLDfeF2Qg) 密码:uk13
+- 深入浅出MySQL全文.pdf [百度云盘链接](https://pan.baidu.com/s/17IWG7mzCgArwcE7dFRhGQA) 提取码: vi2p
+- Mycat权威指南.pdf [百度云盘链接](https://pan.baidu.com/s/1ts0SkbIizepJ-W4OhFH6Xg) 提取码: e4gm
+- 《经典SQL优化实例剖析》公开课.pdf [百度云盘链接](https://pan.baidu.com/s/1GqvFPTd-4sYC5ybIJvn8tg) 提取码: n8jp
+- 谈谈MYSQL那点事.pdf [百度云盘链接](https://pan.baidu.com/s/1fxxZFmIT8HOSFIDKfUg6mA) 提取码: hoft
+- 京东商城-Mysql-Group-Replication官方文档译文.pdf [百度云盘链接](https://pan.baidu.com/s/1NSk-1hDyeDDoEmx2fc_1iQ) 提取码: dbkt
+- MySQL高可用-多种方案.pdf [百度云盘链接](https://pan.baidu.com/s/18_Y32pP66RiffuuZ0ljFcw) 提取码: i7kg
+- MySQL技术内幕-第4版.pdf [百度云盘链接](https://pan.baidu.com/s/1ZzTt1zHTRYNDReuRcACfvQ) 提取码: 6nbp
+- MySQL性能调优与架构设计.pdf [百度云盘链接](https://pan.baidu.com/s/1Vzi8AI3O58ZHHpOck-8CEA) 提取码: ua7v
 
 
 # 其他框架与中间件
