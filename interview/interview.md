@@ -10,12 +10,7 @@
 
 ## 欢迎star，一起学习！（本页面会持续更新！）
 
-### Stars ↓
-[![Stargazers repo roster for @iam-tin/books](https://reporoster.com/stars/iam-tin/books)](https://github.com/iam-tin/books/stargazers)
-
-### Forkers ↓
-[![Forkers repo roster for @iam-tin/books](https://reporoster.com/forks/iam-tin/books)](https://github.com/iam-tin/books/network/members)
-
+---
 
 ## 🏆 JAVA虚拟机相关面试
 
